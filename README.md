@@ -9,7 +9,7 @@ https://gall.dcinside.com/mgallery/board/view/?id=stellaris&no=78670&page=1
 
 
 
-<h1>vpn계정요청방법: </h1>
+<h1>vpn계정요청방법: </h2>
 
 https://discord.gg/66xze4B
 
@@ -17,7 +17,7 @@ https://discord.gg/66xze4B
 
 2. vpn-서버-계정-요청 방에서 camelCase에게 계정 요청
 
-<h1>vpn접속방법:</h1>
+<h1>vpn접속방법:</h2>
 
 
 1. openvpn 다운로드
@@ -40,4 +40,4 @@ https://openvpn.net/community-downloads/
 
 다운로드 받은 파일을 불러온 후 연결
 
-요청한 계정 입력
+이후, 계정입력 창이 뜨면 지급받은 계정 입력
