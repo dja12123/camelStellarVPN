@@ -9,7 +9,7 @@ https://gall.dcinside.com/mgallery/board/view/?id=stellaris&no=78670&page=1
 
 
 
-  vpn계정요청방법: 
+<h1>vpn계정요청방법: </h1>
 
 https://discord.gg/66xze4B
 
@@ -17,7 +17,7 @@ https://discord.gg/66xze4B
 
 2. vpn-서버-계정-요청 방에서 camelCase에게 계정 요청
 
-  vpn접속방법:
+<h1>vpn접속방법:</h1>
 
 
 1. openvpn 다운로드
