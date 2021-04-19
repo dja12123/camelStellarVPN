@@ -2,7 +2,10 @@
 스텔라리스 멀티 가속을 위한 VPN서버!
 
 
-https://gall.dcinside.com/mgallery/board/view/?id=stellaris&no=78670&page=1
+이론: https://gall.dcinside.com/stellaris/78670
+
+실험결과: https://gall.dcinside.com/stellaris/79909
+
 위 내용에 따라 멀티 가속을 위한 VPN서버를 운영합니다.
 
 
