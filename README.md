@@ -55,6 +55,14 @@ https://openvpn.net/community-downloads/
 
 다운로드 받은 파일을 불러온 후 연결
 
+![Cap 2021-04-29 17-31-26-116](https://user-images.githubusercontent.com/20336315/116523242-fdf20680-a910-11eb-9ccb-ae1277c7488b.png)
+
+![Cap 2021-04-29 17-31-37-969](https://user-images.githubusercontent.com/20336315/116523285-09ddc880-a911-11eb-8903-dec0e83bc784.png)
+
+![Cap 2021-04-29 17-32-01-579](https://user-images.githubusercontent.com/20336315/116523300-0e09e600-a911-11eb-95af-bd03267ae2b6.png)
+
+
+
 이후, 계정입력 창이 뜨면 지급받은 계정 입력
 
 
