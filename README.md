@@ -33,7 +33,7 @@ dja12123@naver.com 으로 사용할 ID와 PW 작성하여 보내기.
 
 1. 한국 스텔라리스 멀티 플레이 디스코드 접속(https://discord.gg/66xze4B)
 
-2. vpn-서버-계정-요청 방에서 camelCase에게 계정 요청
+2. VPN에서 사용할 아이디와 비밀번호를 결정한 다음 camelCase에게 개인 챗으로 계정 요청
 
 <h3>vpn접속방법:</h3>
 
