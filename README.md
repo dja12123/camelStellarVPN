@@ -71,6 +71,7 @@ https://openvpn.net/community-downloads/
 
 <h3>주의사항: </h3>
  - 방에 있는 모든 사람이 VPN을 적용해야 효과를 볼 수 있으므로 멀티 인원을 모집 할 때 VPN사용을 공지 하는것을 추천.
+ - 
  - VPN을 먼저 실행하고 게임을 실행해야 VPN이 적용됨.
 
 
