@@ -37,11 +37,9 @@ dja12123@naver.com 으로 사용할 ID와 PW 작성하여 보내기.
 
 양식:
 
-안녕하세요 VPN계정 신청합니다.
-
-ID: id
-
-PW: pw
+ 안녕하세요 VPN계정 신청합니다.
+ ID: id
+ PW: pw
 
 
 <h3>vpn접속방법:</h3>
