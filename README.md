@@ -31,9 +31,18 @@ dja12123@naver.com 으로 사용할 ID와 PW 작성하여 보내기.
 
 - 디스코드 사용
 
-1. 한국 스텔라리스 멀티 플레이 디스코드 접속(https://discord.gg/66xze4B)
+1. 디스코드 camelCase#6543 친구 추가
 
-2. VPN에서 사용할 아이디와 비밀번호를 결정한 다음 camelCase에게 개인 챗으로 계정 요청
+2. VPN에서 사용할 아이디와 비밀번호를 결정한 다음 camelCase에게 계정 요청
+
+양식:
+
+안녕하세요 VPN계정 신청합니다.
+
+ID: id
+
+PW: pw
+
 
 <h3>vpn접속방법:</h3>
 
