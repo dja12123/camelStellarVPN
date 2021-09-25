@@ -1,12 +1,7 @@
 # camelStellarVPN
 스텔라리스 멀티 가속을 위한 VPN서버
 
-
-이론: https://gall.dcinside.com/stellaris/78670
-
-실험결과: https://gall.dcinside.com/stellaris/79909
-
-위 내용에 따라 멀티플레이 가속을 위한 VPN서버를 운영합니다.
+패러독스 게임의 멀티플레이 가속을 위한 VPN서버를 운영합니다.
 
 VPN적용이 확인된 게임:
  - 스텔라리스 (대폭 개선됨)
