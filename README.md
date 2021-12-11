@@ -47,7 +47,7 @@ https://openvpn.net/community-downloads/
 
 ![Cap 2021-04-17 00-59-27-177](https://user-images.githubusercontent.com/20336315/115051831-34468380-9f18-11eb-8a84-949ad20b7991.png)
 
-클라이언트 프로그램 다운로드 후 설치(설치중 권한요청 창이 뜨면 허용 누를것)
+클라이언트 프로그램(AMD64 msi) 다운로드 후 설치(설치중 권한요청 창이 뜨면 허용 누를것)
 
 
 2. openvpn설정파일 임포트 하기
